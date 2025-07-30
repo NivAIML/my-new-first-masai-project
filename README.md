@@ -16,7 +16,7 @@ This is a simple Python console-based Tic Tac Toe game where two players can pla
 ## Getting Started
 
 ### Requirements
-
+ 
 - Python 3.x installed on your system
 
 ### How to Run
